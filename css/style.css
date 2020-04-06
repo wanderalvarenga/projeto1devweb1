@@ -63,9 +63,23 @@ section.bg-top{
 
 
 
+.tabela{
+    margin: 100px;;
+    text-align: center;
+    height: 600px;
+    width: 87%;
+    
+}
+
+.foter{
+    background: #269900 !important;
+    text-align: center;
+}
+
 /** grafico */
 
 canvas{
+    max-width: 100%;
     height: 200px;
     margin-top: 20px;
 }
